@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @Cybernewb21
-- 👀 I’m interested in ...getting my first cyber job.
+- 👋 Hi, I’m @Klu-less
+- 👀 I’m interested in ...getting into OSINT, research or data analysis.
 - 🌱 I’m currently learning ...OSINT and other stuff.
-- 💞️ I’m looking to collaborate on ...whatever helps
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on ...python
+- 📫 
 
-<!---
-Cybernewb21/Cybernewb21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Thx!
